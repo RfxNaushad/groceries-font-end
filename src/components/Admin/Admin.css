@@ -1,0 +1,75 @@
+.admin-design{
+    position: relative;
+}
+.title-design{
+    text-align: center;
+    font-size: 70px;
+    font-weight: 600;
+    margin-top: 50px;
+}
+.product-submit{
+    padding: 50px;
+    text-align: center;
+    width: 450px;
+    height: auto;
+    border: 3px solid rgb(43, 247, 121);
+    position: absolute;
+    left: 200px;
+    top: 100px;
+    margin: auto;
+}
+.product-submit form input{
+    margin-top: 15px;
+    width: 250px;
+    height: 50px;
+}
+.product-submit h2{
+    margin-bottom: 20px;
+    font-size: 40px;
+}
+.management-design{
+    padding: 50px;
+    text-align: center;
+    width: 450px;
+    height: auto;
+    position: absolute;
+    right: 200px;
+    top: 250px;
+    font-size: 30px;
+    border: 3px solid rgb(43, 247, 121);
+}
+.management-design h2{
+    margin-bottom: 20px;
+    font-size: 40px;
+}
+.management-design button{
+    padding: 10px 20px;
+    color: white;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 15px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+    background-color: rgb(43, 247, 121);
+    border: 1px solid rgb(43, 247, 121);
+    font-weight: 700;
+    border-radius: 12px;
+    
+}
+
+.upload-pic{
+    margin-top: 15px;
+    color: black;
+    background-color: rgb(195, 229, 188);
+    cursor: pointer;
+    padding: 9px;
+    border: 1px solid green ;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+#submit_btn{
+    padding: 10px 60px;
+    border: 0; 
+    background-color: gold;
+    font-size: 20px;
+    font-weight: 500;
+    color: white;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+
+}

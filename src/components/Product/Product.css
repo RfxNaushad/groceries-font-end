@@ -1,0 +1,16 @@
+#product-box{
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px, rgba(17, 17, 26, 0.1) 0px 24px 80px;
+    margin-left: 70px;
+    background-color: rgb(91, 253, 199);
+    border-radius: 15px;
+    text-align: center;
+    margin-top: 70px ;
+}
+#h5{
+    font-weight: 500;
+    color: #303F9F;
+}
+#money{
+    font-weight: 600;
+    color: #303F9F;
+}
